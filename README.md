@@ -1,2 +1,0 @@
-# eCommerceDjango
-Django eCommerce!!!
